@@ -1,0 +1,5 @@
+Create this file in the same folder:
+
+Example content:
+
+apple banana orange apple grape banana kiwi mango orange pear apple lemon
